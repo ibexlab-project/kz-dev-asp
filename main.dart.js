@@ -32548,7 +32548,7 @@ while(true)switch(s){case 0:o=A
 s=3
 return A.j(A.b($.a9().c,"_state").a.gAe(),$async$bO)
 case 3:p=new o.XT(b).EM()
-q=new A.aeb(p,"http://192.168.50.2:8080/v1/")
+q=new A.aeb(p,"https://test-api.yoshop.kz/v1/")
 s=1
 break
 case 1:return A.p(q,r)}})
