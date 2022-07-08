@@ -119854,16 +119854,16 @@ j=A.bf6(d)/1440
 A.ax("screenRate: "+A.d(j),g)
 i=A.a([],t.o)
 i.push(A.ag(!1,g,!1,!0,!0,!0,!0,!0,!1,!0,!0,f,g,!0,80,!1,g,B.l,f,B.l,new A.bj(""),200))
-i.push(A.ag(!1,B.r,!1,!0,!1,!1,!1,!0,!0,!0,!0,"no",g,!1,70,!1,g,B.l,"#",B.l,A.bY(),70*j))
-i.push(A.ag(!1,B.r,!1,!0,!1,!1,!0,!0,!1,!0,!0,"docLinkId",g,!1,180,!1,g,B.l,r,B.l,new A.bj(""),180*j))
-i.push(A.ag(!1,B.r,!1,!0,!1,!1,!0,!0,!1,!0,!0,"pickingType",g,!1,130,!1,g,B.l,p,B.l,new A.bj(""),130*j))
-d=160*j
-i.push(A.ag(!1,B.r,!1,!0,!1,!1,!0,!0,!1,!0,!0,"registedDate",g,!1,160,!1,g,B.l,m,B.l,A.pd(e),d))
-i.push(A.ag(!1,B.r,!1,!0,!1,!1,!0,!0,!1,!0,!0,"doneDate",g,!1,160,!1,g,B.l,k,B.l,A.pd(e),d))
+i.push(A.ag(!1,B.r,!1,!0,!1,!1,!1,!0,!0,!0,!0,"no",g,!1,80,!1,g,B.l,"#",B.l,A.bY(),80*j))
 d=200*j
+i.push(A.ag(!1,B.r,!1,!0,!1,!1,!0,!0,!1,!0,!0,"docLinkId",g,!1,200,!1,g,B.l,r,B.l,new A.bj(""),d))
+i.push(A.ag(!1,B.r,!1,!0,!1,!1,!0,!0,!1,!0,!0,"pickingType",g,!1,130,!1,g,B.l,p,B.l,new A.bj(""),130*j))
+s=170*j
+i.push(A.ag(!1,B.r,!1,!0,!1,!1,!0,!0,!1,!0,!0,"registedDate",g,!1,170,!1,g,B.l,m,B.l,A.pd(e),s))
+i.push(A.ag(!1,B.r,!1,!0,!1,!1,!0,!0,!1,!0,!0,"doneDate",g,!1,170,!1,g,B.l,k,B.l,A.pd(e),s))
 i.push(A.ag(!1,B.r,!1,!0,!1,!1,!0,!0,!1,!0,!0,"from",g,!1,200,!1,g,B.l,o,B.l,new A.bj(""),d))
 i.push(A.ag(!1,B.r,!1,!0,!1,!1,!0,!0,!1,!0,!0,"to",g,!1,200,!1,g,B.l,n,B.l,new A.bj(""),d))
-i.push(A.ag(!1,B.r,!1,!0,!1,!1,!0,!0,!1,!0,!0,"pickState",g,!1,100,!1,new A.aWI(),B.l,l,B.l,new A.bj(""),100*j))
+i.push(A.ag(!1,B.r,!1,!0,!1,!1,!0,!0,!1,!0,!0,"pickState",g,!1,110,!1,new A.aWI(),B.l,l,B.l,new A.bj(""),110*j))
 i.push(A.ag(!1,B.r,!1,!0,!1,!0,!0,!0,!1,!0,!0,"arrowBtn",g,!1,50,!1,new A.aWJ(h),B.l,"",B.l,new A.bj(""),50*j))
 return i},
 mW(){var s=0,r=A.r(t.z),q=this,p,o,n,m,l
