@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "65c21095fb19f6a684f996c63d3ca4dc",
+  "assets/AssetManifest.json": "bcf5d84d3e776d3c625b46bfc79c3916",
 "assets/assets/fonts/NotoSans-Bold.ttf": "8ac165243fb633296963b149f206a377",
 "assets/assets/fonts/NotoSans-Regular.ttf": "ac08e269b7f479624b266c0ea20013b4",
 "assets/assets/fonts/NotoSans-SemiBold.ttf": "63bbc52e6ef89a5b1a50f1c9c4710d1b",
-"assets/assets/fonts/YoshopOutline.ttf": "88c93dc000560edce9371649bcdc37e1",
+"assets/assets/Heroicons/a.txt": "fe6c9587512093dd4011471e1a7d39e2",
 "assets/assets/Heroicons/academic-cap.svg": "e351fb8eec27e8471953cde43b1b4506",
 "assets/assets/Heroicons/adjustments.svg": "f024e7b6295f4b19446d1caf2df7f002",
 "assets/assets/Heroicons/annotation.svg": "f1537150e99d5ee54750b0f239dce63a",
@@ -726,9 +726,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "3f4f396446f2015ba268b1df1d2a547d",
-"/": "3f4f396446f2015ba268b1df1d2a547d",
-"main.dart.js": "2863764d4e325f97ecdb58e320f8c824",
+"index.html": "6fdda566210798ff06f3eeb4da29df8f",
+"/": "6fdda566210798ff06f3eeb4da29df8f",
+"main.dart.js": "c638a7aaa37a07bba1edca0c76604196",
 "manifest.json": "8a825e3be398a6793a13d96cd9154679",
 "version.json": "b0fe5f8158ee07262b512d08d4352abd"
 };
