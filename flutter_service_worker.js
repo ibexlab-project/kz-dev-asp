@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "1fd058b8b300339d08b8af25d299c241",
+  "assets/AssetManifest.json": "65c21095fb19f6a684f996c63d3ca4dc",
 "assets/assets/fonts/NotoSans-Bold.ttf": "8ac165243fb633296963b149f206a377",
 "assets/assets/fonts/NotoSans-Regular.ttf": "ac08e269b7f479624b266c0ea20013b4",
 "assets/assets/fonts/NotoSans-SemiBold.ttf": "63bbc52e6ef89a5b1a50f1c9c4710d1b",
@@ -239,6 +239,21 @@ const RESOURCES = {
 "assets/assets/Heroicons/zoom-in.svg": "aa6b9961c0e8d5bda3e36562fda562c7",
 "assets/assets/Heroicons/zoom-out.svg": "a8867412a4c956608b8be5066386caab",
 "assets/assets/images/ys_logo2.svg": "76fee40a0dbd94e88f829658a301294a",
+"assets/assets/svg/Basket.svg": "e3cb6f26030b7eb6f1c19c082521fdd5",
+"assets/assets/svg/bi_credit-card.svg": "40a8cc416e8cb2b03cad19e37a29bc5d",
+"assets/assets/svg/carbon_star-review.svg": "dd2ce3504f4d64cb96b1920fc491a63d",
+"assets/assets/svg/cash-1.svg": "4050d247c8f2019ba1e61612b28df430",
+"assets/assets/svg/cash.svg": "53438dc91a62a93acd49f76b76aaf03f",
+"assets/assets/svg/check_list-3.svg": "238dc52abb16719662ad34beafeb6987",
+"assets/assets/svg/cloud_sync.svg": "9f0d90b9265fee8679ca2c061cac8b19",
+"assets/assets/svg/loading_outline.svg": "566e97afaea6d1089874820cf8628f92",
+"assets/assets/svg/mdi_credit-card-wireless-outline.svg": "dfa62352a544450b425570c1a0b67ce4",
+"assets/assets/svg/Money.svg": "fa48a213780429d7d2e214d1ccc80f64",
+"assets/assets/svg/multi_payment.svg": "853d17eddcdcd2f88b0a0790a19eea6c",
+"assets/assets/svg/noncash.svg": "1da511c3ca10f85b5a6707581bfe7c3c",
+"assets/assets/svg/plus.svg": "c9a6a61641eb8fda6b642f538b1d4ecd",
+"assets/assets/svg/Settings.svg": "641c095075478f95c3740c293392bd49",
+"assets/assets/svg/shopping-cart-add.svg": "ae1b475c1eb32bc25d69a8671b9168f3",
 "assets/FontManifest.json": "c96e59d439395198e7a05ebf6860f15d",
 "assets/fonts/MaterialIcons-Regular.otf": "7e7a6cccddf6d7b20012a548461d5d81",
 "assets/NOTICES": "5c4d7b8cd1d0c2abf6392a6c608bd917",
@@ -711,9 +726,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "9d4fe41aed52590ea9674a81d1dc2e79",
-"/": "9d4fe41aed52590ea9674a81d1dc2e79",
-"main.dart.js": "2cf3c66c40d95bafb4f3f52795bcb790",
+"index.html": "3f4f396446f2015ba268b1df1d2a547d",
+"/": "3f4f396446f2015ba268b1df1d2a547d",
+"main.dart.js": "2863764d4e325f97ecdb58e320f8c824",
 "manifest.json": "8a825e3be398a6793a13d96cd9154679",
 "version.json": "b0fe5f8158ee07262b512d08d4352abd"
 };
