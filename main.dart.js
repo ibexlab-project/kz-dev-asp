@@ -30399,7 +30399,7 @@ bE(){var s=0,r=A.o(t.eb),q,p
 var $async$bE=A.p(function(a,b){if(a===1)return A.l(b,r)
 while(true)switch(s){case 0:p=A.bk0()
 p=new A.WG(p==null?null:p.d).DV()
-q=new A.acw(p,"http://192.168.50.2:8080/v1/")
+q=new A.acw(p,"https://test-api.yoshop.kz/v1/")
 s=1
 break
 case 1:return A.m(q,r)}})
