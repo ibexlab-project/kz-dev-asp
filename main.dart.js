@@ -110590,7 +110590,8 @@ c.toString
 a4=A.a5(["index",new A.M(new A.E(),f),"itemId",new A.M(new A.E(),g),"no",new A.M(new A.E(),i),"itemName",new A.M(new A.E(),d),"barcode",new A.M(new A.E(),b),"unit",new A.M(new A.E(),A.a5(["796",a2,"166",a3,"006",a4,"112",A.d("Liter",null,"liter",A.a([],n),null)],m,m).h(0,h.z)),"duplicate",new A.M(new A.E(),e)],m,l)
 a3=e==="Table"
 g=a3&&null
-p.push(new A.bA(a4,g,!a3,!0,B.ai,new A.E()))}A.b(a5.d,"stateManager").cZ(p)
+f=!a3||!1
+p.push(new A.bA(a4,g,!a3,f,B.ai,new A.E()))}A.b(a5.d,"stateManager").cZ(p)
 n=A.b(a5.d,"stateManager")
 if(!n.a)n.cL()
 a5.q(new A.aTl())}else A.a4("SM is NOT READY: true",null)
