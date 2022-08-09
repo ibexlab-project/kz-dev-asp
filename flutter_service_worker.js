@@ -255,7 +255,7 @@ const RESOURCES = {
 "assets/assets/svg/shopping-cart-add.svg": "ae1b475c1eb32bc25d69a8671b9168f3",
 "assets/FontManifest.json": "c96e59d439395198e7a05ebf6860f15d",
 "assets/fonts/MaterialIcons-Regular.otf": "7e7a6cccddf6d7b20012a548461d5d81",
-"assets/NOTICES": "5c4d7b8cd1d0c2abf6392a6c608bd917",
+"assets/NOTICES": "d1b9c2c7eafa2951b87758e816504e52",
 "assets/packages/heroicons/assets/outline/academic-cap.svg": "df99206ea401345cc78ce30a9faabfa8",
 "assets/packages/heroicons/assets/outline/adjustments.svg": "914090a135646c8bbf9c13bcb585a2c9",
 "assets/packages/heroicons/assets/outline/annotation.svg": "339e5a5b0dc354dab722f1e837489682",
@@ -725,9 +725,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "affc1393dfde58d2fe1e6a953282839b",
 "icons/Icon-maskable-192.png": "dcaf8592f773fd7abdc3c8204bce8a7a",
 "icons/Icon-maskable-512.png": "288cb28af18beee9dd1b86dc30003b08",
-"index.html": "c577c1a2ee56c5c20abd7d4d9d7fddda",
-"/": "c577c1a2ee56c5c20abd7d4d9d7fddda",
-"main.dart.js": "0a29c060dd6b7e8c7e43a30820c53bd2",
+"index.html": "6a985584e347a3b76be59f5018a91159",
+"/": "6a985584e347a3b76be59f5018a91159",
+"main.dart.js": "6bb7063b1d64d39c305bab5efeb73e9b",
 "manifest.json": "8a825e3be398a6793a13d96cd9154679",
 "version.json": "a6e0d831acb8ace6f456a47cb049153e"
 };
