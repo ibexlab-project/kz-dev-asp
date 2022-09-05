@@ -254,8 +254,8 @@ const RESOURCES = {
 "assets/assets/svg/Settings.svg": "641c095075478f95c3740c293392bd49",
 "assets/assets/svg/shopping-cart-add.svg": "ae1b475c1eb32bc25d69a8671b9168f3",
 "assets/FontManifest.json": "c96e59d439395198e7a05ebf6860f15d",
-"assets/fonts/MaterialIcons-Regular.otf": "7e7a6cccddf6d7b20012a548461d5d81",
-"assets/NOTICES": "d1b9c2c7eafa2951b87758e816504e52",
+"assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
+"assets/NOTICES": "1dbb1f20da06abc0409e277e057b8bee",
 "assets/packages/heroicons/assets/outline/academic-cap.svg": "df99206ea401345cc78ce30a9faabfa8",
 "assets/packages/heroicons/assets/outline/adjustments.svg": "914090a135646c8bbf9c13bcb585a2c9",
 "assets/packages/heroicons/assets/outline/annotation.svg": "339e5a5b0dc354dab722f1e837489682",
@@ -506,7 +506,7 @@ const RESOURCES = {
 "assets/packages/heroicons/assets/solid/arrow-sm-right.svg": "b94e4b3a87e3eb888b540b56d34afb8b",
 "assets/packages/heroicons/assets/solid/arrow-sm-up.svg": "427e48e85029c6a8d05c9a779d944127",
 "assets/packages/heroicons/assets/solid/arrow-up.svg": "c55ec8620b93b8fb581166ec4050bec9",
-"assets/packages/heroicons/assets/solid/arrows-expand.svg": "0667f1031212016b4b961e8af1b79de3",
+"assets/packages/heroicons/assets/solid/arrows-expand.svg": "9a2cfc9fe6f4e6f866f92dbc4747ed9f",
 "assets/packages/heroicons/assets/solid/at-symbol.svg": "b020f878160102519553dca22a763eca",
 "assets/packages/heroicons/assets/solid/backspace.svg": "3ecb36f76f8180ac7b6712a012094724",
 "assets/packages/heroicons/assets/solid/badge-check.svg": "4fc6ad140fa523bb8a60a6664aec0e1d",
@@ -591,10 +591,10 @@ const RESOURCES = {
 "assets/packages/heroicons/assets/solid/finger-print.svg": "dff537635f40c219ac7ef8e6377ebfff",
 "assets/packages/heroicons/assets/solid/fire.svg": "73688be3e6fe21d65d9b2732af373a99",
 "assets/packages/heroicons/assets/solid/flag.svg": "f4f21b12bcfc2a4961836873f4e4fe5f",
-"assets/packages/heroicons/assets/solid/folder-add.svg": "fc938666684c6679dd078022628c76aa",
-"assets/packages/heroicons/assets/solid/folder-download.svg": "3d63d2c075fb50c69c577ffbd73b824c",
+"assets/packages/heroicons/assets/solid/folder-add.svg": "8738ba592753b7bb94350dd46ddbc7b4",
+"assets/packages/heroicons/assets/solid/folder-download.svg": "3979dc393fa4bd481b75632c62334e03",
 "assets/packages/heroicons/assets/solid/folder-open.svg": "c9461e61fc5d4037b782f66bb96dea29",
-"assets/packages/heroicons/assets/solid/folder-remove.svg": "c5eda6e96ef8bc83cd5447ad174ba846",
+"assets/packages/heroicons/assets/solid/folder-remove.svg": "dd81fdd8fa3f5b394123dfdfe774a03c",
 "assets/packages/heroicons/assets/solid/folder.svg": "153f3f5d07e5777ffee813dc09ed65fb",
 "assets/packages/heroicons/assets/solid/gift.svg": "50a0f820741fab0ea237513119ad9135",
 "assets/packages/heroicons/assets/solid/globe-alt.svg": "1727f23588b66e66e0252e426dbdf97f",
@@ -716,29 +716,29 @@ const RESOURCES = {
 "assets/packages/heroicons/assets/solid/x.svg": "01d7545073842f80a0fe28984b2fd74e",
 "assets/packages/heroicons/assets/solid/zoom-in.svg": "183056fefedbc50ff9dba6d11fe3b7d0",
 "assets/packages/heroicons/assets/solid/zoom-out.svg": "8a7ab401bf6a7166ddd0f4c9d00ca89f",
-"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
-"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
-"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
-"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
+"assets/shaders/ink_sparkle.frag": "ea0a91bc4bd1682f994e920d7edc71dd",
+"canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
+"canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62",
+"canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
+"canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
 "favicon.png": "a09f87ac99069e66382f73d4897b68ff",
+"flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
 "icons/Icon-192.png": "64c40497964af58436e064bf4abeb914",
 "icons/Icon-512.png": "affc1393dfde58d2fe1e6a953282839b",
 "icons/Icon-maskable-192.png": "dcaf8592f773fd7abdc3c8204bce8a7a",
 "icons/Icon-maskable-512.png": "288cb28af18beee9dd1b86dc30003b08",
-"index.html": "e1610c066e1ea3580fcb0f83524db787",
-"/": "e1610c066e1ea3580fcb0f83524db787",
-"main.dart.js": "406340ede391dc66f52fcaec20b29a5e",
+"index.html": "deb6b0a5b2408019fb74a4fa809bd756",
+"/": "deb6b0a5b2408019fb74a4fa809bd756",
+"main.dart.js": "f122b16be953bb534d52576d61b7202a",
 "manifest.json": "8a825e3be398a6793a13d96cd9154679",
-"version.json": "fbdc924d79c555e87771f1ab32b70466"
+"version.json": "bc5e83ad7dd47de6017c96b80e0d3628"
 };
 
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = [
-  "/",
-"main.dart.js",
+  "main.dart.js",
 "index.html",
-"assets/NOTICES",
 "assets/AssetManifest.json",
 "assets/FontManifest.json"];
 // During install, the TEMP cache is populated with the application shell files.
@@ -837,9 +837,11 @@ self.addEventListener("fetch", (event) => {
     .then((cache) =>  {
       return cache.match(event.request).then((response) => {
         // Either respond with the cached resource, or perform a fetch and
-        // lazily populate the cache.
+        // lazily populate the cache only if the resource was successfully fetched.
         return response || fetch(event.request).then((response) => {
-          cache.put(event.request, response.clone());
+          if (response && Boolean(response.ok)) {
+            cache.put(event.request, response.clone());
+          }
           return response;
         });
       })
