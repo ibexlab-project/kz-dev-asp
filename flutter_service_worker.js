@@ -256,7 +256,7 @@ const RESOURCES = {
 "assets/assets/svg/shopping-cart-add.svg": "ae1b475c1eb32bc25d69a8671b9168f3",
 "assets/FontManifest.json": "c96e59d439395198e7a05ebf6860f15d",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"assets/NOTICES": "35a57d77cb5faf90464d63812b8fb687",
+"assets/NOTICES": "4af68028e60e7825812b4a787e1bf7da",
 "assets/packages/flutter_multi_formatter/flags/png/ad.png": "77ce19646f93c63a2387f2840bc9686e",
 "assets/packages/flutter_multi_formatter/flags/png/ae.png": "1439ab85e1ef23242fe7885da8a19091",
 "assets/packages/flutter_multi_formatter/flags/png/af.png": "aca8b607d5f7f7de283db4a20ca3f845",
@@ -984,11 +984,11 @@ const RESOURCES = {
 "icons/Icon-512.png": "6f4f9c89ef9d38fb14183a1f6291e12d",
 "icons/Icon-maskable-192.png": "cc22095d41591577eb126a80cdc34cb4",
 "icons/Icon-maskable-512.png": "108ef51f414a201473e0d5b63c2811bb",
-"index.html": "1f24b935e1553ad095fc3143b8ef01c3",
-"/": "1f24b935e1553ad095fc3143b8ef01c3",
-"main.dart.js": "4f764c8fc68ac56155d0c4059012c5bd",
+"index.html": "5d2fbc3c1970c98dbfc8b5fce08bfdc2",
+"/": "5d2fbc3c1970c98dbfc8b5fce08bfdc2",
+"main.dart.js": "c5bdc252cace89006e826c052e421681",
 "manifest.json": "8a825e3be398a6793a13d96cd9154679",
-"version.json": "f3d8d2890f1ad53c7472686b60b5b252"
+"version.json": "81541789eb5e004d3b7935adb70c5845"
 };
 
 // The application shell files that are downloaded before a service worker can
