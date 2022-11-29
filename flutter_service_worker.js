@@ -237,7 +237,7 @@ const RESOURCES = {
 "assets/assets/Heroicons/x.svg": "a4cb23952f30404ca07969d12171367c",
 "assets/assets/Heroicons/zoom-in.svg": "aa6b9961c0e8d5bda3e36562fda562c7",
 "assets/assets/Heroicons/zoom-out.svg": "a8867412a4c956608b8be5066386caab",
-"assets/assets/images/yoshop_logo.svg": "63b1e700fbffeea508766f543d58869f",
+"assets/assets/images/yoshop_logo.svg": "9c97813647f48278f7a658139b7bf85e",
 "assets/assets/images/ys_logo2.svg": "76fee40a0dbd94e88f829658a301294a",
 "assets/assets/svg/Basket.svg": "e3cb6f26030b7eb6f1c19c082521fdd5",
 "assets/assets/svg/bi_credit-card.svg": "40a8cc416e8cb2b03cad19e37a29bc5d",
@@ -984,11 +984,11 @@ const RESOURCES = {
 "icons/Icon-512.png": "6f4f9c89ef9d38fb14183a1f6291e12d",
 "icons/Icon-maskable-192.png": "cc22095d41591577eb126a80cdc34cb4",
 "icons/Icon-maskable-512.png": "108ef51f414a201473e0d5b63c2811bb",
-"index.html": "830550667ce221ceffd832ace8d3000f",
-"/": "830550667ce221ceffd832ace8d3000f",
-"main.dart.js": "6696c6dc5ffbff6461c21f1b239d29f7",
+"index.html": "6d199e4cb2a5e3d6a9cbf90465315917",
+"/": "6d199e4cb2a5e3d6a9cbf90465315917",
+"main.dart.js": "bd0b0c13396f6109b42bcdbe4e002dd1",
 "manifest.json": "8a825e3be398a6793a13d96cd9154679",
-"version.json": "107461ad7bb04e09efb8e04eec201944"
+"version.json": "95b64d7e1ba56900800bc687b4c7041c"
 };
 
 // The application shell files that are downloaded before a service worker can
