@@ -256,7 +256,7 @@ const RESOURCES = {
 "assets/assets/svg/shopping-cart-add.svg": "ae1b475c1eb32bc25d69a8671b9168f3",
 "assets/FontManifest.json": "c96e59d439395198e7a05ebf6860f15d",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"assets/NOTICES": "059d74eb5acae2dd2ee3242a4b4b4afa",
+"assets/NOTICES": "c9f9f8942a4abec7608db1d2d0dbc2ef",
 "assets/packages/flutter_multi_formatter/flags/png/ad.png": "77ce19646f93c63a2387f2840bc9686e",
 "assets/packages/flutter_multi_formatter/flags/png/ae.png": "1439ab85e1ef23242fe7885da8a19091",
 "assets/packages/flutter_multi_formatter/flags/png/af.png": "aca8b607d5f7f7de283db4a20ca3f845",
@@ -984,9 +984,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "6f4f9c89ef9d38fb14183a1f6291e12d",
 "icons/Icon-maskable-192.png": "cc22095d41591577eb126a80cdc34cb4",
 "icons/Icon-maskable-512.png": "108ef51f414a201473e0d5b63c2811bb",
-"index.html": "5a2372487cec436cafe6bf4232c76e4f",
-"/": "5a2372487cec436cafe6bf4232c76e4f",
-"main.dart.js": "7b41f971086c3a2d481e7700969e263d",
+"index.html": "f285c8190141d10eea4ac70c4b1acfde",
+"/": "f285c8190141d10eea4ac70c4b1acfde",
+"main.dart.js": "f66eaf055cfd56bf5300e6bff04fb69e",
 "manifest.json": "8a825e3be398a6793a13d96cd9154679",
 "version.json": "1a1b91760d67431dbb21cd105b37a1ea"
 };
