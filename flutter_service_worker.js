@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "a9bbb557af86049c90fd531c9827e5a2",
+  "assets/AssetManifest.json": "3c8fe0da988156afb7db226cd1075ad4",
 "assets/assets/excel/importSample.xlsx": "90828138f9014fb0ef9b4a9ac7bb285c",
 "assets/assets/fonts/NotoSans-Bold.ttf": "8ac165243fb633296963b149f206a377",
 "assets/assets/fonts/NotoSans-Regular.ttf": "ac08e269b7f479624b266c0ea20013b4",
@@ -242,6 +242,7 @@ const RESOURCES = {
 "assets/assets/images/monki_logo.png": "e3313eeb09d5f028a4ccf260cc44f2d5",
 "assets/assets/images/yoshop_logo.svg": "63b1e700fbffeea508766f543d58869f",
 "assets/assets/images/ys_logo2.svg": "76fee40a0dbd94e88f829658a301294a",
+"assets/assets/images/ys_logo3.svg": "3859db0882c1327db5890d2039b0bd10",
 "assets/assets/svg/Basket.svg": "e3cb6f26030b7eb6f1c19c082521fdd5",
 "assets/assets/svg/bi_credit-card.svg": "40a8cc416e8cb2b03cad19e37a29bc5d",
 "assets/assets/svg/carbon_star-review.svg": "dd2ce3504f4d64cb96b1920fc491a63d",
@@ -987,9 +988,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "6f4f9c89ef9d38fb14183a1f6291e12d",
 "icons/Icon-maskable-192.png": "cc22095d41591577eb126a80cdc34cb4",
 "icons/Icon-maskable-512.png": "108ef51f414a201473e0d5b63c2811bb",
-"index.html": "3f6164c525fc4ae318f19b7697a07f7f",
-"/": "3f6164c525fc4ae318f19b7697a07f7f",
-"main.dart.js": "937a644098a769f08f4d0c39b2f670ca",
+"index.html": "b837ea5636fd77a663239dd24752edd7",
+"/": "b837ea5636fd77a663239dd24752edd7",
+"main.dart.js": "111ad754776dfd5ec56ba2f323781bda",
 "manifest.json": "8a825e3be398a6793a13d96cd9154679",
 "version.json": "9295016edddcb8272bc119b445d04f47"
 };
