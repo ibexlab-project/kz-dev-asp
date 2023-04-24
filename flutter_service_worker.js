@@ -987,10 +987,11 @@ const RESOURCES = {
 "icons/Icon-512.png": "6f4f9c89ef9d38fb14183a1f6291e12d",
 "icons/Icon-maskable-192.png": "cc22095d41591577eb126a80cdc34cb4",
 "icons/Icon-maskable-512.png": "108ef51f414a201473e0d5b63c2811bb",
-"index.html": "18de8dba22a20d870c291eb216461600",
-"/": "18de8dba22a20d870c291eb216461600",
-"main.dart.js": "cd8bc85473ee062d1ab896ebd6df0578",
+"index.html": "c0e1686311e854be703f886b1dbfd45e",
+"/": "c0e1686311e854be703f886b1dbfd45e",
+"main.dart.js": "eb0082e0220614d75402961530bb1659",
 "manifest.json": "8a825e3be398a6793a13d96cd9154679",
+"monki_favicon.png": "cebe02306c3b0c34619fb299d91928bb",
 "version.json": "9295016edddcb8272bc119b445d04f47"
 };
 
