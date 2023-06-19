@@ -987,9 +987,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "ad354ff23c2c6aca0ab685a2847f3ded",
 "icons/Icon-maskable-192.png": "d5d28c85382a2658157ac5fb040622d2",
 "icons/Icon-maskable-512.png": "e28acd36096e6ed4cbcc4cae1fcae75d",
-"index.html": "f5f4556707c0cfe26f3d1ee75f37bc81",
-"/": "f5f4556707c0cfe26f3d1ee75f37bc81",
-"main.dart.js": "233cdbd3962368a779b12efa8c4d711f",
+"index.html": "45a4cf84f50c7dc4768731468e590671",
+"/": "45a4cf84f50c7dc4768731468e590671",
+"main.dart.js": "f088154a20c5382eed90fe61e7996ebe",
 "manifest.json": "8a825e3be398a6793a13d96cd9154679",
 "monki_favicon.png": "cebe02306c3b0c34619fb299d91928bb",
 "version.json": "9295016edddcb8272bc119b445d04f47"
