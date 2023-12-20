@@ -18,18 +18,18 @@
 
   <meta charset="UTF-8">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
-  <meta name="description" content="Yoshop Backoffice">
+  <meta name="description" content="Yoshop">
 
   <!-- iOS meta tags & icons -->
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
-  <meta name="apple-mobile-web-app-title" content="yoshop_back_office">
+  <meta name="apple-mobile-web-app-title" content="Yoshop">
   <link rel="apple-touch-icon" href="icons/Icon-192.png">
 
   <!-- Favicon -->
   <link rel="icon" type="image/png" href="favicon.png"/>
 
-  <title>yoshop_back_office</title>
+  <title>Yoshop</title>
   <link rel="manifest" href="manifest.json">
 </head>
 <body>
@@ -37,7 +37,7 @@
        application. For more information, see:
        https://developers.google.com/web/fundamentals/primers/service-workers -->
   <script>
-    var serviceWorkerVersion = '111459215';
+    var serviceWorkerVersion = '2757250834';
     var scriptLoaded = false;
     function loadMainDartJs() {
       if (scriptLoaded) {
@@ -100,46 +100,5 @@
       loadMainDartJs();
     }
   </script>
-  <script src="//t1.daumcdn.net/mapjsapi/bundle/postcode/prod/postcode.v2.js"></script>
-  <script>
-    window.jsInvokeMethod = async (method, params) => {
-       if(method == "postcode") {
-           postcode();
-       }
-       else {
-       }
-    }
-    function callDart(data) {
-        // 우편번호 확인
-       window.jsOnEvent(data);
-<!--       window.jsOnEventRoadAddress(roadAddress);    -->
-<!--       window.jsOnEventPostcode(zipcode);-->
-<!--       window.jsOnEventRoadAddress(roadAddress);-->
-    }
-
-    function postcode() {
-        new daum.Postcode({
-            oncomplete: function(data) {
-                var roadAddr = data.roadAddress; // 도로명 주소 변수
-                var extraRoadAddr = ''; // 참고 항목 변수
-
-                if(data.bname !== '' && /[동|로|가]$/g.test(data.bname)){
-                    extraRoadAddr += data.bname;
-                }
-                if(data.buildingName !== '' && data.apartment === 'Y'){
-                   extraRoadAddr += (extraRoadAddr !== '' ? ', ' + data.buildingName : data.buildingName);
-                }
-                if(extraRoadAddr !== ''){
-                    extraRoadAddr = ' (' + extraRoadAddr + ')';
-                }
-                callDart({
-                  "zonecode": data.zonecode,
-                  "roadAddr": roadAddr,
-                  "jibunAddress": data.jibunAddress
-                });
-            }
-        }).open();
-    }
-</script>
 </body>
 </html>

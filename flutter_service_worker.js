@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "a81c9279a028117c9ce5cbf1e0dc6607",
+  "assets/AssetManifest.json": "9d53e475c73aaccbc3b9bfbf68ba4d3a",
 "assets/assets/excel/importSample.xlsx": "90828138f9014fb0ef9b4a9ac7bb285c",
 "assets/assets/fonts/NotoSans-Bold.ttf": "8ac165243fb633296963b149f206a377",
 "assets/assets/fonts/NotoSans-Regular.ttf": "ac08e269b7f479624b266c0ea20013b4",
@@ -239,8 +239,8 @@ const RESOURCES = {
 "assets/assets/Heroicons/zoom-in.svg": "aa6b9961c0e8d5bda3e36562fda562c7",
 "assets/assets/Heroicons/zoom-out.svg": "a8867412a4c956608b8be5066386caab",
 "assets/assets/images/main_image_sample.png": "cb21200b78c5ea488a43bb6e8989c978",
-"assets/assets/images/monki_logo.png": "e3313eeb09d5f028a4ccf260cc44f2d5",
-"assets/assets/images/yoshop_logo.svg": "63b1e700fbffeea508766f543d58869f",
+"assets/assets/images/monki_usa_logo.png": "8bfa081e8e21d494e4cae4f38e7ce678",
+"assets/assets/images/yoshop_logo.svg": "9c97813647f48278f7a658139b7bf85e",
 "assets/assets/images/ys_logo2.svg": "76fee40a0dbd94e88f829658a301294a",
 "assets/assets/images/ys_logo3.svg": "3859db0882c1327db5890d2039b0bd10",
 "assets/assets/svg/Basket.svg": "e3cb6f26030b7eb6f1c19c082521fdd5",
@@ -255,7 +255,7 @@ const RESOURCES = {
 "assets/assets/svg/Money.svg": "fa48a213780429d7d2e214d1ccc80f64",
 "assets/assets/svg/multi_payment.svg": "853d17eddcdcd2f88b0a0790a19eea6c",
 "assets/assets/svg/noncash.svg": "1da511c3ca10f85b5a6707581bfe7c3c",
-"assets/assets/svg/noun-clear.svg": "77978a5094a577ff246bfd4b69a40730",
+"assets/assets/svg/noun-clear.svg": "99b65d54ccd4268f04c32708194746d1",
 "assets/assets/svg/plus.svg": "c9a6a61641eb8fda6b642f538b1d4ecd",
 "assets/assets/svg/Settings.svg": "641c095075478f95c3740c293392bd49",
 "assets/assets/svg/shopping-cart-add.svg": "ae1b475c1eb32bc25d69a8671b9168f3",
@@ -985,16 +985,18 @@ const RESOURCES = {
 "canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
 "canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
 "favicon.png": "937bcce7c5e975070b6e6889d4c6ec95",
+"favicon_us.png": "6003b34b6338d6422834da34dd38273a",
 "flutter.js": "a85fcf6324d3c4d3ae3be1ae4931e9c5",
 "icons/Icon-192.png": "586f7e5aa881181d6548f3c84155bb95",
 "icons/Icon-512.png": "ad354ff23c2c6aca0ab685a2847f3ded",
 "icons/Icon-maskable-192.png": "d5d28c85382a2658157ac5fb040622d2",
 "icons/Icon-maskable-512.png": "e28acd36096e6ed4cbcc4cae1fcae75d",
-"index.html": "bb8bd2395bd4692ecc24bd12c67dd97f",
-"/": "bb8bd2395bd4692ecc24bd12c67dd97f",
-"main.dart.js": "2bdd2d3a986e9ab4ef064cbbbc686c11",
+"index.html": "3f29eda6131d22daacee898ce4c6740e",
+"/": "3f29eda6131d22daacee898ce4c6740e",
+"index_kr.html": "5aec52ee07ec894bf54adb2df6b6bece",
+"index_us.html": "d372f1532c01bde79873cc5df106b24a",
+"main.dart.js": "b1b2319c7f69246f9825fb6928aec7aa",
 "manifest.json": "8a825e3be398a6793a13d96cd9154679",
-"monki_favicon.png": "cebe02306c3b0c34619fb299d91928bb",
 "version.json": "9295016edddcb8272bc119b445d04f47"
 };
 
