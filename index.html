@@ -37,7 +37,7 @@
        application. For more information, see:
        https://developers.google.com/web/fundamentals/primers/service-workers -->
   <script>
-    var serviceWorkerVersion = '3553761049';
+    var serviceWorkerVersion = '744797779';
     var scriptLoaded = false;
     function loadMainDartJs() {
       if (scriptLoaded) {
@@ -98,6 +98,49 @@
     } else {
       // Service workers not supported. Just drop the <script> tag.
       loadMainDartJs();
+    }
+  </script>
+  <script src="//t1.daumcdn.net/mapjsapi/bundle/postcode/prod/postcode.v2.js"></script>
+  <script>
+    window.jsInvokeMethod = async (method, params) => {
+       if(method == "postcode") {
+           postcode();
+       }
+       else {
+       }
+    }
+    function callDart(data) {
+        // check postcode
+       window.jsOnEvent(data);
+       <!--
+       window.jsOnEventRoadAddress(roadAddress);
+       window.jsOnEventPostcode(zipcode);
+       window.jsOnEventRoadAddress(roadAddress);
+       -->
+    }
+
+    function postcode() {
+        new daum.Postcode({
+            oncomplete: function(data) {
+                var roadAddr = data.roadAddress; // road address
+                var extraRoadAddr = ''; // ext road address
+
+                if(data.bname !== '' && /[동|로|가]$/g.test(data.bname)){
+                    extraRoadAddr += data.bname;
+                }
+                if(data.buildingName !== '' && data.apartment === 'Y'){
+                   extraRoadAddr += (extraRoadAddr !== '' ? ', ' + data.buildingName : data.buildingName);
+                }
+                if(extraRoadAddr !== ''){
+                    extraRoadAddr = ' (' + extraRoadAddr + ')';
+                }
+                callDart({
+                  "zonecode": data.zonecode,
+                  "roadAddr": roadAddr,
+                  "jibunAddress": data.jibunAddress
+                });
+            }
+        }).open();
     }
   </script>
 </body>
